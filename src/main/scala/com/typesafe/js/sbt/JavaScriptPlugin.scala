@@ -6,7 +6,7 @@ import sbt.Keys._
 /**
  * Adds JavaScript settings to SBT
  */
-abstract class JavaScriptPlugin extends Plugin {
+object JavaScriptPlugin extends sbt.Plugin {
 
   object JavaScriptKeys {
     val JavaScript = config("js")
