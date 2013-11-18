@@ -1,4 +1,4 @@
-js-sbt
+web-sbt
 ======
 
-JavaScript concerns for sbt
+Web concerns for sbt
